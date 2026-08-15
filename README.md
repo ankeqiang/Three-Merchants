@@ -1,5 +1,7 @@
 # Three Merchants
 
+This repository is a research companion to “A Tale of Three Merchants: Social Worlds, Political Networks, and Public Sphere in Modern Shanghai,” a book chapter published in Performing Power: Elites and the Making of Modern China, edited by Christian Henriot, Cécile Armand, and Ling-ling Lien, De Gruyter, 2026.
+
 ## Zhu Baosan, Yu Qiaqing, and Wang Xiaolai in Modern Shanghai
 
 This repository contains research data, R scripts, network-analysis outputs, Cytoscape workspaces, and figures for a comparative study of three prominent Shanghai merchants:
